@@ -1,0 +1,14 @@
+Bem-vindo(a) ao jogo Aventura no Labirinto!
+
+Seu objetivo é encontrar a saída do labirinto, coletando os itens no caminho.
+
+Comandos:
+W - Cima
+A - Esquerda
+S - Baixo
+D - Direita
+Q - Sair do jogo
+
+Evite as paredes (█) e tente pegar os itens (*).
+
+Boa sorte!
